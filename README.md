@@ -46,10 +46,16 @@
 #### 📞 Contact
 
 <p align="center">
-  <a href="https://digital-defense.io/">
-    <img src="https://img.shields.io/badge/Visit-Website-black?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  <a href="https://t.me/viaownercyberlinuxid">
+    <img src="https://img.shields.io/badge/Owner-@viaownercyberlinuxid-black?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://github.com/Digital-Defense">
-    <img src="https://img.shields.io/badge/GitHub-DigitalDefense-black?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://t.me/CyberLinuxID">
+    <img src="https://img.shields.io/badge/Grup-CyberLinuxID-black?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/CyberLinux1d">
+    <img src="https://img.shields.io/badge/GitHub-CyberLinux1d-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://9o1kc.mssg.me/">
+    <img src="https://img.shields.io/badge/Link-Lengkap-black?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
