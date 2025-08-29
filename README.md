@@ -5,45 +5,45 @@
 
 ---
 
-<h3> <i class="fa fa-lock"></i> Digital Security Made Easy </h3>
+### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/lock.svg" width="20"/> Digital Security Made Easy
 
 [Digital-Defense.io](https://digital-defense.io/) adalah situs GRATIS yang menyediakan panduan & checklist lengkap untuk melindungi perangkat, akun online, dan jaringanmu. Tingkatkan privasi dan keamanan digitalmu dengan langkah-langkah praktis yang mudah diikuti.
 
 ---
 
-<h4> <i class="fa fa-book"></i> Fitur Utama </h4>
+#### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/book-open.svg" width="20"/> Fitur Utama
 
 <details>
-<summary> <i class="fa fa-laptop"></i> Perangkat & Komputer </summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/laptop-code.svg" width="20"/> Perangkat & Komputer</summary>
 
-<i class="fa fa-arrow-right"></i> Panduan amankan PC, laptop, dan perangkat seluler.  
-<i class="fa fa-circle-check"></i> Fungsi: Lindungi data pribadi & sistem dari ancaman digital.
+👉 Panduan amankan PC, laptop, dan perangkat seluler.  
+📌 Fungsi: Lindungi data pribadi & sistem dari ancaman digital.
 </details>
 
 <details>
-<summary> <i class="fa fa-globe"></i> Jaringan & Internet </summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/globe.svg" width="20"/> Jaringan & Internet</summary>
 
-<i class="fa fa-arrow-right"></i> Tips aman browsing, konfigurasi WiFi, dan VPN.  
-<i class="fa fa-circle-check"></i> Fungsi: Menjaga privasi & mencegah penyadapan.
+👉 Tips aman browsing, konfigurasi WiFi, dan VPN.  
+📌 Fungsi: Menjaga privasi & mencegah penyadapan.
 </details>
 
 <details>
-<summary> <i class="fa fa-key"></i> Akun Online </summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/key.svg" width="20"/> Akun Online</summary>
 
-<i class="fa fa-arrow-right"></i> Checklist keamanan akun email, media sosial, dan layanan cloud.  
-<i class="fa fa-circle-check"></i> Fungsi: Cegah akses tidak sah & kebocoran data.
+👉 Checklist keamanan akun email, media sosial, dan layanan cloud.  
+📌 Fungsi: Cegah akses tidak sah & kebocoran data.
 </details>
 
 <details>
-<summary> <i class="fa fa-shield-alt"></i> Keamanan Fisik & Privasi </summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/shield-halved.svg" width="20"/> Keamanan Fisik & Privasi</summary>
 
-<i class="fa fa-arrow-right"></i> Panduan keamanan rumah, smart devices, dan keamanan manusia.  
-<i class="fa fa-circle-check"></i> Fungsi: Perlindungan menyeluruh di dunia digital & fisik.
+👉 Panduan keamanan rumah, smart devices, dan keamanan manusia.  
+📌 Fungsi: Perlindungan menyeluruh di dunia digital & fisik.
 </details>
 
 ---
 
-<h4> <i class="fa fa-phone"></i> Contact </h4>
+#### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/phone.svg" width="20"/> Contact
 
 <p align="center">
   <a href="https://t.me/viaownercyberlinuxid">
