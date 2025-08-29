@@ -5,8 +5,6 @@
 
 ---
 
-<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/magnifying-glass.svg" width="20" /> Search
-
 ### 🔐 Digital Security Made Easy
 
 [Digital-Defense.io](https://digital-defense.io/) adalah situs GRATIS yang menyediakan panduan & checklist lengkap untuk melindungi perangkat, akun online, dan jaringanmu. Tingkatkan privasi dan keamanan digitalmu dengan langkah-langkah praktis yang mudah diikuti.
