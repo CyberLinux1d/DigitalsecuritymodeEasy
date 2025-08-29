@@ -5,45 +5,45 @@
 
 ---
 
-### 🔐 Digital Security Made Easy
+<h3> <i class="fa fa-lock"></i> Digital Security Made Easy </h3>
 
 [Digital-Defense.io](https://digital-defense.io/) adalah situs GRATIS yang menyediakan panduan & checklist lengkap untuk melindungi perangkat, akun online, dan jaringanmu. Tingkatkan privasi dan keamanan digitalmu dengan langkah-langkah praktis yang mudah diikuti.
 
 ---
 
-#### 📚 Fitur Utama
+<h4> <i class="fa fa-book"></i> Fitur Utama </h4>
 
 <details>
-<summary>💻 Perangkat & Komputer</summary>
+<summary> <i class="fa fa-laptop"></i> Perangkat & Komputer </summary>
 
-👉 Panduan amankan PC, laptop, dan perangkat seluler.  
-📌 Fungsi: Lindungi data pribadi & sistem dari ancaman digital.
+<i class="fa fa-arrow-right"></i> Panduan amankan PC, laptop, dan perangkat seluler.  
+<i class="fa fa-circle-check"></i> Fungsi: Lindungi data pribadi & sistem dari ancaman digital.
 </details>
 
 <details>
-<summary>🌐 Jaringan & Internet</summary>
+<summary> <i class="fa fa-globe"></i> Jaringan & Internet </summary>
 
-👉 Tips aman browsing, konfigurasi WiFi, dan VPN.  
-📌 Fungsi: Menjaga privasi & mencegah penyadapan.
+<i class="fa fa-arrow-right"></i> Tips aman browsing, konfigurasi WiFi, dan VPN.  
+<i class="fa fa-circle-check"></i> Fungsi: Menjaga privasi & mencegah penyadapan.
 </details>
 
 <details>
-<summary>🔑 Akun Online</summary>
+<summary> <i class="fa fa-key"></i> Akun Online </summary>
 
-👉 Checklist keamanan akun email, media sosial, dan layanan cloud.  
-📌 Fungsi: Cegah akses tidak sah & kebocoran data.
+<i class="fa fa-arrow-right"></i> Checklist keamanan akun email, media sosial, dan layanan cloud.  
+<i class="fa fa-circle-check"></i> Fungsi: Cegah akses tidak sah & kebocoran data.
 </details>
 
 <details>
-<summary>🛡 Keamanan Fisik & Privasi</summary>
+<summary> <i class="fa fa-shield-alt"></i> Keamanan Fisik & Privasi </summary>
 
-👉 Panduan keamanan rumah, smart devices, dan keamanan manusia.  
-📌 Fungsi: Perlindungan menyeluruh di dunia digital & fisik.
+<i class="fa fa-arrow-right"></i> Panduan keamanan rumah, smart devices, dan keamanan manusia.  
+<i class="fa fa-circle-check"></i> Fungsi: Perlindungan menyeluruh di dunia digital & fisik.
 </details>
 
 ---
 
-#### 📞 Contact
+<h4> <i class="fa fa-phone"></i> Contact </h4>
 
 <p align="center">
   <a href="https://t.me/viaownercyberlinuxid">
