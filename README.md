@@ -9,6 +9,12 @@
 
 [Digital-Defense.io](https://digital-defense.io/) adalah situs GRATIS yang menyediakan panduan & checklist lengkap untuk melindungi perangkat, akun online, dan jaringanmu. Tingkatkan privasi dan keamanan digitalmu dengan langkah-langkah praktis yang mudah diikuti.
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/star.svg" width="20" style="color:black"/>  
+  Jika kalian suka, jangan lupa klik <b>bintang</b> di GitHub kami!  
+  <a href="https://github.com/CyberLinux1d">👉 GitHub Repo</a>
+</p>
+
 ---
 
 #### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/book-open.svg" width="20"/> Fitur Utama
